@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@300;400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  // to take the 1rem => 16px to 1rem => 10px
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Changa", sans-serif;
+  font-size: 1.6rem;
+  background: linear-gradient(44.8deg, #ff8766cb -53.1%, #f5f5dca1 49%);
+
+}
+
+h6 {
+  font-size: 2rem;
+}
